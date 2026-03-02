@@ -1,4 +1,4 @@
-def add(a, b):
+def add(a, b): Dev1 is king
     return a + b
 
 result = add(10, 5)
